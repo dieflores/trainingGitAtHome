@@ -1,0 +1,7 @@
+pwd (ver que carpeta estoy)
+ll (cantidad de archivos)
+mkdir (para crear carpeta)
+ls (listado de archivos)
+ls -lh (que archivos existen y detalle)
+touch (crear tipos de archivos, txt, jpg, etc)
+cd (para cambiar directorio)
